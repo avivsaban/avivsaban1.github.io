@@ -64,7 +64,7 @@ a, a:after, a:visited {
     color:rgb(128, 125, 125);
      text-decoration:none;
     font-family:Graphik;
-    display: block;
+    display: inline-block;
   }
 
 h1 {
