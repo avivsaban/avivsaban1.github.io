@@ -216,7 +216,7 @@ b {
   }
   
   .dropdown.active .options {
-    display: block;
+    display: inline-block;
   }
   
   .dropdown .options div {
